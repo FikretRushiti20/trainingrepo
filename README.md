@@ -19,5 +19,7 @@
 
 ### Validations
   There are some simple validations:
-  1. Inputs can`t be empty, otherwise if empty then echoed is: Inputs can`t be empty
-  2. Starting number should always be lower than ending number, otherwise echoed is: Starting number can`t be greater than ending number
+  1. Inputs can`t be empty
+  2. If inputs are empty-> Inputs can`t be empty.
+  3. Starting number should always be lower than ending number
+  4. If starting number is bigger -> Starting number can`t be greater than ending number
